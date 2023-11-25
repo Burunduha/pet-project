@@ -1,0 +1,19 @@
+{
+  "name": "pet-project-frontend",
+  "version": "1.0.0",
+  "description": "Front-end of my pet project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burunduha/pet-project.git"
+  },
+  "author": "Burunduha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Burunduha/pet-project/issues"
+  },
+  "homepage": "https://github.com/Burunduha/pet-project#readme"
+}
